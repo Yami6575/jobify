@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Stats() {
+function StatsPage() {
   return (
     <div>Stats</div>
   )
 }
 
-export default Stats
+export default StatsPage

@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Jobs() {
+function  AllJobsPage() {
   return (
     <div>Jobs</div>
   )
 }
 
-export default Jobs
+export default  AllJobsPage
