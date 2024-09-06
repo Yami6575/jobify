@@ -1,8 +1,9 @@
+import CreateJobForm from '@/components/CreateJobForm'
 import React from 'react'
 
 function AddJobPage() {
   return (
-    <div>AddJobPage</div>
+    <div><CreateJobForm></CreateJobForm></div>
   )
 }
 
